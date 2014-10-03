@@ -250,6 +250,11 @@
 				<string>elipsis</string>
 				<string>heart</string>
 				<string>ninetynine</string>
+				<string>j_a</string>
+				<string>j_i</string>
+				<string>ju</string>
+				<string>notelement</string>
+				<string>element</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -464,9 +469,8 @@
 		<string>ninetynine</string>
 		<string>j_a</string>
 		<string>j_i</string>
-		<string>j_u</string>
+		<string>ju</string>
 		<string>notelement</string>
-		<string>j_u.add_1</string>
 		<string>element</string>
 	</array>
 </dict>
