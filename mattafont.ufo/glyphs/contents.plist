@@ -54,10 +54,18 @@
 	<string>Y_.glif</string>
 	<key>Z</key>
 	<string>Z_.glif</string>
+	<key>a</key>
+	<string>a.glif</string>
+	<key>cent</key>
+	<string>cent.glif</string>
 	<key>comma</key>
 	<string>comma.glif</string>
+	<key>dollar</key>
+	<string>dollar.glif</string>
 	<key>eight</key>
 	<string>eight.glif</string>
+	<key>element</key>
+	<string>element.glif</string>
 	<key>elipsis</key>
 	<string>elipsis.glif</string>
 	<key>exclam</key>
@@ -68,16 +76,30 @@
 	<string>four.glif</string>
 	<key>heart</key>
 	<string>heart.glif</string>
+	<key>j_a</key>
+	<string>j_a.glif</string>
+	<key>j_u</key>
+	<string>j_u.glif</string>
+	<key>nine</key>
+	<string>nine.glif</string>
+	<key>ninetynine</key>
+	<string>ninetynine.glif</string>
+	<key>notelement</key>
+	<string>notelement.glif</string>
 	<key>one</key>
 	<string>one.glif</string>
 	<key>period</key>
 	<string>period.glif</string>
 	<key>question</key>
 	<string>question.glif</string>
+	<key>quoteright</key>
+	<string>quoteright.glif</string>
 	<key>seven</key>
 	<string>seven.glif</string>
 	<key>six</key>
 	<string>six.glif</string>
+	<key>space</key>
+	<string>space.glif</string>
 	<key>three</key>
 	<string>three.glif</string>
 	<key>two</key>

@@ -249,6 +249,7 @@
 				<string>U+2026</string>
 				<string>elipsis</string>
 				<string>heart</string>
+				<string>ninetynine</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -460,6 +461,13 @@
 		<string>U+2026</string>
 		<string>elipsis</string>
 		<string>heart</string>
+		<string>ninetynine</string>
+		<string>j_a</string>
+		<string>j_i</string>
+		<string>j_u</string>
+		<string>notelement</string>
+		<string>j_u.add_1</string>
+		<string>element</string>
 	</array>
 </dict>
 </plist>
