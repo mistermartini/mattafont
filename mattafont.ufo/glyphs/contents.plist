@@ -60,6 +60,8 @@
 	<string>cent.glif</string>
 	<key>comma</key>
 	<string>comma.glif</string>
+	<key>divide</key>
+	<string>divide.glif</string>
 	<key>dollar</key>
 	<string>dollar.glif</string>
 	<key>eight</key>
@@ -82,6 +84,10 @@
 	<string>j_i.glif</string>
 	<key>ju</key>
 	<string>ju.glif</string>
+	<key>minus</key>
+	<string>minus.glif</string>
+	<key>multiply</key>
+	<string>multiply.glif</string>
 	<key>nine</key>
 	<string>nine.glif</string>
 	<key>ninetynine</key>
@@ -90,8 +96,14 @@
 	<string>notelement.glif</string>
 	<key>one</key>
 	<string>one.glif</string>
+	<key>parenleft</key>
+	<string>parenleft.glif</string>
+	<key>parenright</key>
+	<string>parenright.glif</string>
 	<key>period</key>
 	<string>period.glif</string>
+	<key>plus</key>
+	<string>plus.glif</string>
 	<key>question</key>
 	<string>question.glif</string>
 	<key>quoteright</key>
