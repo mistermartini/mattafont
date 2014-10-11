@@ -255,8 +255,11 @@
 				<string>ju</string>
 				<string>notelement</string>
 				<string>element</string>
-				<string>dharma</string>
-				<string>gemini</string>
+				<string>rightflourish</string>
+				<string>leftflourish</string>
+				<string>crocusofcopper2</string>
+				<string>left_flourish</string>
+				<string>right_flourish</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -474,6 +477,9 @@
 		<string>ju</string>
 		<string>notelement</string>
 		<string>element</string>
+		<string>crocusofcopper2</string>
+		<string>left_flourish</string>
+		<string>right_flourish</string>
 	</array>
 </dict>
 </plist>

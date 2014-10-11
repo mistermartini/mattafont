@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="crocusofcopper2" format="1">
+  <advance width="1011"/>
+  <unicode hex="1F724"/>
+  <outline>
+    <contour>
+      <point x="13" y="364" type="curve" smooth="yes"/>
+      <point x="6" y="519"/>
+      <point x="109" y="623"/>
+      <point x="295" y="641" type="curve" smooth="yes"/>
+      <point x="480" y="657"/>
+      <point x="553" y="416"/>
+      <point x="546" y="335" type="curve" smooth="yes"/>
+      <point x="539" y="256"/>
+      <point x="461" y="70"/>
+      <point x="288" y="81" type="curve" smooth="yes"/>
+      <point x="116" y="92"/>
+      <point x="19" y="211"/>
+    </contour>
+    <contour>
+      <point x="293" y="508" type="curve"/>
+      <point x="183" y="501"/>
+      <point x="140" y="440"/>
+      <point x="140" y="353" type="curve" smooth="yes"/>
+      <point x="140" y="267"/>
+      <point x="161" y="185"/>
+      <point x="293" y="194" type="curve" smooth="yes"/>
+      <point x="386" y="201"/>
+      <point x="404" y="239"/>
+      <point x="413" y="327" type="curve" smooth="yes"/>
+      <point x="419" y="416"/>
+      <point x="389" y="497"/>
+    </contour>
+    <contour>
+      <point x="245" y="591" type="curve" smooth="yes"/>
+      <point x="265" y="603"/>
+      <point x="279" y="598"/>
+      <point x="306" y="587" type="curve" smooth="yes"/>
+      <point x="332" y="578"/>
+      <point x="323" y="166"/>
+      <point x="317" y="137" type="curve" smooth="yes"/>
+      <point x="311" y="106"/>
+      <point x="278" y="119"/>
+      <point x="250" y="133" type="curve" smooth="yes"/>
+      <point x="224" y="149"/>
+      <point x="227" y="579"/>
+    </contour>
+    <contour>
+      <point x="269" y="387" type="curve" smooth="yes"/>
+      <point x="294" y="419"/>
+      <point x="948" y="391"/>
+      <point x="971" y="389" type="curve" smooth="yes"/>
+      <point x="994" y="387"/>
+      <point x="998" y="306"/>
+      <point x="964" y="306" type="curve" smooth="yes"/>
+      <point x="869" y="306"/>
+      <point x="276" y="293"/>
+      <point x="268" y="317" type="curve" smooth="yes"/>
+      <point x="259" y="339"/>
+      <point x="246" y="357"/>
+    </contour>
+    <contour>
+      <point x="967" y="528" type="curve" smooth="yes"/>
+      <point x="829" y="514"/>
+      <point x="770" y="481"/>
+      <point x="777" y="330" type="curve" smooth="yes"/>
+      <point x="783" y="209"/>
+      <point x="835" y="206"/>
+      <point x="971" y="185" type="curve" smooth="yes"/>
+      <point x="1004" y="180"/>
+      <point x="998" y="60"/>
+      <point x="972" y="62" type="curve" smooth="yes"/>
+      <point x="809" y="75"/>
+      <point x="664" y="104"/>
+      <point x="656" y="328" type="curve" smooth="yes"/>
+      <point x="645" y="621"/>
+      <point x="916" y="639"/>
+      <point x="962" y="639" type="curve" smooth="yes"/>
+      <point x="985" y="639"/>
+      <point x="980" y="529"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>crocusofcopper</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1011</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

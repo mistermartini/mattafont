@@ -1,33 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="parenright" format="1">
-  <advance width="500"/>
+  <advance width="435"/>
   <unicode hex="0029"/>
   <outline>
     <contour>
-      <point x="187" y="754" type="curve" smooth="yes"/>
-      <point x="162" y="763"/>
-      <point x="129" y="764"/>
-      <point x="114" y="752" type="curve" smooth="yes"/>
-      <point x="105" y="745"/>
-      <point x="223" y="582"/>
-      <point x="226" y="322" type="curve"/>
-      <point x="229" y="149"/>
-      <point x="138" y="-6"/>
-      <point x="141" y="-11" type="curve"/>
-      <point x="177" y="-50"/>
-      <point x="209" y="-46"/>
-      <point x="246" y="-25" type="curve"/>
-      <point x="260" y="-11"/>
-      <point x="365" y="95"/>
-      <point x="366" y="313" type="curve" smooth="yes"/>
-      <point x="367" y="586"/>
-      <point x="212" y="745"/>
+      <point x="202" y="834" type="curve" smooth="yes"/>
+      <point x="177" y="843"/>
+      <point x="64" y="844"/>
+      <point x="49" y="832" type="curve" smooth="yes"/>
+      <point x="40" y="825"/>
+      <point x="188" y="572"/>
+      <point x="191" y="312" type="curve"/>
+      <point x="194" y="139"/>
+      <point x="73" y="-76"/>
+      <point x="76" y="-81" type="curve"/>
+      <point x="112" y="-120"/>
+      <point x="203" y="-106"/>
+      <point x="240" y="-85" type="curve"/>
+      <point x="254" y="-71"/>
+      <point x="360" y="95"/>
+      <point x="361" y="313" type="curve" smooth="yes"/>
+      <point x="362" y="586"/>
+      <point x="227" y="825"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>parenright</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>435</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

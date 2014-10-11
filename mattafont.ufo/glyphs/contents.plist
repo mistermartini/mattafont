@@ -32,6 +32,8 @@
 	<string>N_.glif</string>
 	<key>O</key>
 	<string>O_.glif</string>
+	<key>Oslash</key>
+	<string>Oslash_.glif</string>
 	<key>P</key>
 	<string>P_.glif</string>
 	<key>Q</key>
@@ -56,10 +58,20 @@
 	<string>Z_.glif</string>
 	<key>a</key>
 	<string>a.glif</string>
+	<key>braceleft</key>
+	<string>braceleft.glif</string>
+	<key>braceright</key>
+	<string>braceright.glif</string>
+	<key>bracketleft</key>
+	<string>bracketleft.glif</string>
+	<key>bracketright</key>
+	<string>bracketright.glif</string>
 	<key>cent</key>
 	<string>cent.glif</string>
 	<key>comma</key>
 	<string>comma.glif</string>
+	<key>crocusofcopper2</key>
+	<string>crocusofcopper2.glif</string>
 	<key>divide</key>
 	<string>divide.glif</string>
 	<key>dollar</key>
@@ -84,6 +96,8 @@
 	<string>j_i.glif</string>
 	<key>ju</key>
 	<string>ju.glif</string>
+	<key>left_flourish</key>
+	<string>left_flourish.glif</string>
 	<key>minus</key>
 	<string>minus.glif</string>
 	<key>multiply</key>
@@ -108,6 +122,8 @@
 	<string>question.glif</string>
 	<key>quoteright</key>
 	<string>quoteright.glif</string>
+	<key>right_flourish</key>
+	<string>right_flourish.glif</string>
 	<key>seven</key>
 	<string>seven.glif</string>
 	<key>six</key>
